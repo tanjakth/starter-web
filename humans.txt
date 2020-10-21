@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> New change <twitter>
+    tanjila
+	student
+	working
+	learning git
 
 # THANKS
 
